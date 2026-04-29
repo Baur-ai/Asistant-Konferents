@@ -1,0 +1,8 @@
+faster-whisper==1.1.1
+pyannote.audio==3.3.2
+sounddevice==0.4.7
+numpy==1.26.4
+transformers==4.51.3
+torch>=2.2.0
+accelerate>=0.33.0
+sentencepiece>=0.2.0
